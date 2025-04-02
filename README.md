@@ -1,4 +1,4 @@
-# Concurrent Channel Communication Library in C
+# CSP-Style-Concurrent-Messaging-in-C
 
 ## Overview
 
@@ -57,4 +57,3 @@ This project models real-world concurrency mechanisms like Go's channels and is 
 ## Outcome
 
 Successfully built and validated a concurrent messaging system in C with support for channel multiplexing, blocking/non-blocking synchronization, and correctness under high concurrency. Demonstrated advanced proficiency in low-level systems programming, concurrency control, and debugging multithreaded applications.
-# CSP-Style-Concurrent-Messaging-in-C
